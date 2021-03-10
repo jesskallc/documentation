@@ -5,3 +5,4 @@
 - [readthedocs](https://docs.readthedocs.io/en/stable/)
   - [community vs biz](https://docs.readthedocs.io/en/stable/choosing-a-site.html)
 - [sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
+- [just the docs](https://github.com/pmarsceill/just-the-docs)
